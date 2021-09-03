@@ -19,7 +19,7 @@ Oii!!! Sou o Riad Younes, futuro engenheiro de Software
   <a href="https://www.instagram.com/riadyounes" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "riad.younes@hotmail.com">
+  <a href ="mailto:riad.younes@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/riad-younes-6a5348187/" target="_blank">
