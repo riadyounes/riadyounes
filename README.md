@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando como desenvolvedor full-stack<br><br>🌱 no momento estou aprendendo typescript, NextJs<br>
+🔭 I'm currently working as a full-stack developer<br><br>🌱 At the moment I'm getting better with typescript and clean code<br>
 
 
 ## 🌐 Socials:
